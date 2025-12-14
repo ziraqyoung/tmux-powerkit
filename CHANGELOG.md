@@ -1,3 +1,10 @@
+# [3.8.0](https://github.com/fabioluciano/tmux-powerkit/compare/v3.7.1...v3.8.0) (2025-12-14)
+
+
+### Features
+
+* **github:** add github plugin ([#117](https://github.com/fabioluciano/tmux-powerkit/issues/117)) ([3907f64](https://github.com/fabioluciano/tmux-powerkit/commit/3907f648a66518d9da67eb8cf7bad837c938c3e2))
+
 ## [3.7.1](https://github.com/fabioluciano/tmux-powerkit/compare/v3.7.0...v3.7.1) (2025-12-13)
 
 
