@@ -1,3 +1,10 @@
+## [3.9.2](https://github.com/fabioluciano/tmux-powerkit/compare/v3.9.1...v3.9.2) (2025-12-16)
+
+
+### Bug Fixes
+
+* enhance cache invalidation for Homebrew package updates by checking multiple directories ([#128](https://github.com/fabioluciano/tmux-powerkit/issues/128)) ([eaf5e91](https://github.com/fabioluciano/tmux-powerkit/commit/eaf5e9105d9ef8cf7ec5851163e568ad7a3dd1e0))
+
 ## [3.9.1](https://github.com/fabioluciano/tmux-powerkit/compare/v3.9.0...v3.9.1) (2025-12-16)
 
 
