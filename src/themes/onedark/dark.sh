@@ -33,7 +33,7 @@ declare -A THEME_COLORS=(
 
     # Status Colors (PowerKit Standard)
     [success]="#98c379"              # Green
-    [warning]="#e5c07b"              # Yellow
+    [warning]="#e7c78b"              # Yellow (13% lighter)
     [error]="#e06c75"                # Red
     [info]="#56b6c2"                 # Cyan
 
@@ -44,14 +44,14 @@ declare -A THEME_COLORS=(
     [disabled]="#5c6370"             # Disabled state
 
     # Additional Variants
-    [success-subtle]="#aed095"       # Lighter green
-    [success-strong]="#5b7548"       # Strong success (40% darker)
-    [warning-strong]="#d19a66"       # Orange (darker warm)
-    [error-strong]="#be5046"         # Dark red
-    [info-subtle]="#7ec8d3"          # Lighter cyan
-    [info-strong]="#3e9ca8"          # Darker cyan
-    [error-subtle]="#e88993"         # Lighter red
-    [warning-subtle]="#ecd1a0"       # Lighter yellow
+    [success-subtle]="#abce92"       # Subtle success (18.9% lighter)
+    [success-strong]="#546c43"       # Strong success (44.2% darker)
+    [warning-strong]="#806f4d"       # Strong warning (44.2% darker)
+    [error-strong]="#7c3c41"         # Strong error (44.2% darker)
+    [info-subtle]="#75c3cd"          # Subtle info (18.9% lighter)
+    [info-strong]="#2f656c"          # Strong info (44.2% darker)
+    [error-subtle]="#e5878f"         # Subtle error (18.9% lighter)
+    [warning-subtle]="#ebd1a0"       # Subtle warning (18.9% lighter)
 
     # System Colors
     [white]="#ffffff"                # Pure white

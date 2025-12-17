@@ -33,7 +33,7 @@ declare -A THEME_COLORS=(
 
     # Status Colors (PowerKit Standard)
     [success]="#a3be8c"              # nord14 - Success (aurora green)
-    [warning]="#ebcb8b"              # nord13 - Warning (aurora yellow)
+    [warning]="#edd199"              # Warning (13% lighter)
     [error]="#bf616a"                # nord11 - Error (aurora red)
     [info]="#81a1c1"                 # nord9 - Info (frost blue)
 
@@ -44,14 +44,14 @@ declare -A THEME_COLORS=(
     [disabled]="#4c566a"             # nord3 - Disabled state
 
     # Additional Variants
-    [success-subtle]="#8fbcbb"       # nord7 - Subtle success
-    [success-strong]="#627254"       # Strong success (40% darker) (frost teal)
-    [warning-strong]="#d08770"       # nord12 - Strong warning (aurora orange)
-    [error-strong]="#a54a52"         # Darker red
-    [info-subtle]="#b48ead"          # nord15 - Subtle info (aurora purple)
-    [info-strong]="#5e81ac"          # nord10 - Strong info
-    [error-subtle]="#d57a82"         # Lighter red
-    [warning-subtle]="#f0d9a8"       # Lighter yellow
+    [success-subtle]="#b4caa1"       # Subtle success (18.9% lighter)
+    [success-strong]="#5a6a4e"       # Strong success (44.2% darker)
+    [warning-strong]="#847455"       # Strong warning (44.2% darker)
+    [error-strong]="#6a363b"         # Strong error (44.2% darker)
+    [info-subtle]="#9ecbd8"          # Subtle info (18.9% lighter)
+    [info-strong]="#4b6b74"          # Strong info (44.2% darker)
+    [error-subtle]="#cb7e86"         # Subtle error (18.9% lighter)
+    [warning-subtle]="#f0d9ac"       # Subtle warning (18.9% lighter)
 
     # System Colors
     [white]="#ffffff"                # nord6

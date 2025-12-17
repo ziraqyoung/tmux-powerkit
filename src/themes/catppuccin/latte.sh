@@ -33,7 +33,7 @@ declare -A THEME_COLORS=(
 
     # Status Colors (PowerKit Standard)
     [success]="#40a02b"              # Green
-    [warning]="#df8e1d"              # Yellow
+    [warning]="#e29c39"              # Yellow (13% lighter)
     [error]="#d20f39"                # Red
     [info]="#04a5e5"                 # Sky
 
@@ -44,14 +44,14 @@ declare -A THEME_COLORS=(
     [disabled]="#9ca0b0"             # Overlay1 - Disabled state
 
     # Additional Variants
-    [success-subtle]="#179299"       # Teal
-    [success-strong]="#266019"       # Strong success (40% darker)
-    [warning-strong]="#fe640b"       # Peach
-    [error-strong]="#e64553"         # Maroon
-    [info-subtle]="#7287fd"          # Lavender
-    [info-strong]="#1e66f5"          # Blue
-    [error-subtle]="#ea76cb"         # Pink
-    [warning-subtle]="#dc8a78"       # Rosewater
+    [success-subtle]="#64b153"       # Subtle success (18.9% lighter)
+    [success-strong]="#235917"       # Strong success (44.2% darker)
+    [warning-strong]="#7e571f"       # Strong warning (44.2% darker)
+    [error-strong]="#75081f"         # Strong error (44.2% darker)
+    [info-subtle]="#33b6e9"          # Subtle info (18.9% lighter)
+    [info-strong]="#025c7f"          # Strong info (44.2% darker)
+    [error-subtle]="#da3c5e"         # Subtle error (18.9% lighter)
+    [warning-subtle]="#e7ae5e"       # Subtle warning (18.9% lighter)
 
     # System Colors
     [white]="#ffffff"                # Base (lightest in light theme)
