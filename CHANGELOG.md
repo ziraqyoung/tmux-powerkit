@@ -1,3 +1,10 @@
+# [4.3.0](https://github.com/fabioluciano/tmux-powerkit/compare/v4.2.0...v4.3.0) (2025-12-19)
+
+
+### Features
+
+* **external:** expand #{...} tmux variables inside $(command) and #(command) ([#139](https://github.com/fabioluciano/tmux-powerkit/issues/139)) ([672fe8d](https://github.com/fabioluciano/tmux-powerkit/commit/672fe8d0fa159742fad11e200e0c7873fec71df4))
+
 # [4.2.0](https://github.com/fabioluciano/tmux-powerkit/compare/v4.1.2...v4.2.0) (2025-12-19)
 
 
