@@ -1,3 +1,17 @@
+# [4.3.0](https://github.com/fabioluciano/tmux-powerkit/compare/v4.2.0...v4.3.0) (2025-12-19)
+
+
+### Features
+
+* **external:** expand #{...} tmux variables inside $(command) and #(command) ([#139](https://github.com/fabioluciano/tmux-powerkit/issues/139)) ([672fe8d](https://github.com/fabioluciano/tmux-powerkit/commit/672fe8d0fa159742fad11e200e0c7873fec71df4))
+
+# [4.2.0](https://github.com/fabioluciano/tmux-powerkit/compare/v4.1.2...v4.2.0) (2025-12-19)
+
+
+### Features
+
+* enhance plugin display logic and add customization options for element spacing ([1e848e5](https://github.com/fabioluciano/tmux-powerkit/commit/1e848e513c0e49e631a77df8e5b33756521e5f4f))
+
 ## [4.1.2](https://github.com/fabioluciano/tmux-powerkit/compare/v4.1.1...v4.1.2) (2025-12-19)
 
 
