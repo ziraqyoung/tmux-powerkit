@@ -8,7 +8,7 @@ ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 plugin_init "battery"
 
 # Platform detection
-is_wsl() { [[ -f /proc/version ]] && grep -qiE "microsoft|wsl" /proc/version 2>/dev/null; }
+is_wsl() { [[ -f /proc/version ]] && grep -qiE "archlinux" /proc/version 2>/dev/null; }
 cmd() { require_cmd "$1" 1; }
 
 # Get battery percentage
